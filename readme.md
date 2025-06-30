@@ -1,4 +1,4 @@
-# 🔴 Biblioteca de Códigos Embarcados – Microcontroladores na Veia
+# 🔴 Biblioteca de Códigos Embarcados
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-red)]()
 [![Microcontroladores](https://img.shields.io/badge/Microcontroladores-MSP430%20%7C%20Tiva--C%20%7C%20STM32%20%7C%20ESP32%20%7C%20Arduino-crimson)]()
@@ -25,8 +25,6 @@ Esta biblioteca tem como missão:
 | 🔺 **STM32**      | C / C++   | STM32CubeIDE / HAL           |
 | ⚡ **ESP32**      | C / C++   | Arduino IDE            |
 | 🔧 **Arduino UNO R3**    | C / C++   | Arduino IDE      |
-
----
 
 ---
 
